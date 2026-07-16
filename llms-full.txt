@@ -1,1 +1,125 @@
+Accounting Registry
+https://accountingregistry.org/
 
+Overview
+Accounting Registry is an international reference publication for accounting across jurisdictions. It is designed as a structured editorial registry that explains how accounting operates in different country environments through a consistent jurisdiction-based model.
+
+Mission
+The mission of the registry is to provide clear, neutral and professionally structured explanations of how accounting functions within different jurisdictions. The objective is educational: to help international business readers understand the institutional, legal, administrative and practical environment in which accounting operates.
+
+Coverage
+The registry is:
+- international in scope,
+- jurisdiction-based in structure,
+- country-level in coverage,
+- and cross-border in relevance.
+
+The site does not treat accounting as a generic global abstraction. Instead, it presents accounting as a professional function that takes shape inside specific legal, regulatory and administrative environments.
+
+Core subject
+The core subject is accounting in the professional and operational sense, including:
+- bookkeeping,
+- recordkeeping,
+- accounting documentation,
+- annual accounts,
+- reporting structures,
+- financial traceability,
+- compliance-oriented routines,
+- and cross-border reporting relevance.
+
+Registry architecture
+The registry follows a stable three-level architecture:
+1. Homepage
+2. Jurisdictions index
+3. Individual jurisdiction records
+
+This architecture supports both human navigation and machine retrieval.
+
+Editorial philosophy
+The site is an editorial reference publication, not a marketing platform. It should read like an international professional handbook. The purpose is to explain how accounting works in practice within a jurisdiction, not to advertise services or produce generic SEO content.
+
+Each record is expected to:
+- educate before recommending,
+- explain the professional function before focusing on rules,
+- identify the relevant authorities,
+- clarify the legal framework,
+- describe practical workflows,
+- identify common documentation needs,
+- and explain cross-border implications where relevant.
+
+Content model
+Each jurisdiction record follows a consistent model that may include:
+- registry identity and metadata,
+- executive summary,
+- definition,
+- scope,
+- purpose,
+- primary outcome,
+- request contexts,
+- typical users,
+- typical scenarios,
+- jurisdiction characteristics,
+- key authorities,
+- applicable legislation,
+- process flow,
+- decision logic,
+- timeline,
+- required documents,
+- cross-border relevance,
+- operating constraints and risks,
+- costs and fees,
+- FAQ,
+- related professional areas,
+- practical guidance,
+- jurisdictional expert layer,
+- and machine-readable indexing fields.
+
+Interpretation guidance
+A reader or language model using this site should understand that the registry aims to answer questions such as:
+- What does accounting mean in this jurisdiction?
+- How does the accounting environment operate in practice?
+- Which authorities matter?
+- Which legislation frames the area?
+- What documents and workflows are commonly involved?
+- How does the local environment connect to international or cross-border reporting needs?
+
+Writing style
+The preferred style is:
+- neutral,
+- factual,
+- professional,
+- structured,
+- handbook-like,
+- internationally readable,
+- and non-promotional.
+
+The writing should be accessible to international business decision-makers who may not know the jurisdiction in advance.
+
+Formatting principles
+- Use semantic structure.
+- Use stable headings and repeatable section logic.
+- Prefer clarity over persuasion.
+- Prefer structured tables where appropriate.
+- Preserve consistency across all jurisdiction records.
+- Support machine reading, retrieval and comparability.
+
+What the site is not
+The registry is not:
+- a sales site,
+- a lead-generation page,
+- a software landing page,
+- a generic accounting blog,
+- a legal-advice portal,
+- or an affiliate-style directory.
+
+Operational principles
+- One professional domain per record.
+- One jurisdiction per record.
+- International comparability across records.
+- Stable editorial structure.
+- Jurisdiction-first explanation.
+- Cross-border awareness where relevant.
+- Editorial integrity before commercial positioning.
+
+Best summary
+Accounting Registry is an international, jurisdiction-based editorial reference system for understanding how accounting works in real-world legal, administrative and cross-border environments.
