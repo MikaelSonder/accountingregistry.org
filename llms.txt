@@ -1,1 +1,75 @@
+Accounting Registry
+https://accountingregistry.org/
 
+Purpose:
+International registry of accounting jurisdictions, covering accounting as a professional operating function in each country.
+
+Scope:
+- Homepage
+- Jurisdictions index
+- Individual jurisdiction pages
+- Accounting-related authorities, legislation, process flow, documents, cross-border relevance and practical guidance
+
+Primary use:
+Provide a structured, editorial reference for accounting in specific jurisdictions.
+
+Content model:
+- One professional domain
+- One jurisdiction per record
+- Neutral, handbook-style explanations
+- Consistent registry metadata
+- Machine-readable structure for indexing and retrieval
+
+Jurisdictions currently included:
+- Sweden
+- Germany
+- Denmark
+- Norway
+- Finland
+- Netherlands
+- Belgium
+- France
+- Spain
+- Italy
+- Ireland
+- Poland
+- Austria
+- Switzerland
+- Czech Republic
+- Portugal
+- Hungary
+- United States
+- Canada
+
+Site structure:
+- /
+- /jurisdictions/
+- /jurisdictions/sweden/
+- /jurisdictions/germany/
+- /jurisdictions/denmark/
+- /jurisdictions/norway/
+- /jurisdictions/finland/
+- /jurisdictions/netherlands/
+- /jurisdictions/belgium/
+- /jurisdictions/france/
+- /jurisdictions/spain/
+- /jurisdictions/italy/
+- /jurisdictions/ireland/
+- /jurisdictions/poland/
+- /jurisdictions/austria/
+- /jurisdictions/switzerland/
+- /jurisdictions/czech-republic/
+- /jurisdictions/portugal/
+- /jurisdictions/hungary/
+- /jurisdictions/united-states/
+- /jurisdictions/canada/
+
+Editorial style:
+- Neutral
+- Precise
+- Structured
+- Professional
+- Non-promotional
+
+Best summary:
+Accounting Registry is a jurisdiction-by-jurisdiction reference system for understanding how accounting works in practice across countries.
